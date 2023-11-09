@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Budget Buddiez</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="landing_page">Tracking your financial expenses and make saving easily</string>
+    <string name="title_activity_transaction_adapter">TransactionAdapter</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string-array name="category_transaction">
+        <item>Income</item>
+        <item>Outcome</item>
+    </string-array>
+    <string name="Article1">
+    Tips dan trik menabung antara lain:
+
+    1. Tentukan tujuan Menabung
+
+    Langkah pertama yang harus Anda lakukan sebelum membuat tabungan yaitu menentukan tujuan. Mengapa demikian? Sebab, cara menabung yang benar adalah ketika Anda tahu apa yang ingin diraih dari hasil tabungan tersebut, berapa jumlahnya, dan kapan target tabungan tersebut terpenuhi.
+
+    Anda bisa menentukan tujuan menabung secara jangka pendek ataupun jangka panjang. Tabungan jangka pendek cocok untuk dana darurat, barang elektronik, atau liburan. Sedangkan tabungan jangka panjang bisa digunakan untuk keperluan pendidikan, pensiun, atau membeli rumah dengan uang muka.
+
+    2. Tetapkan Batas Waktu
+    Lalu, bagaimana cara menabung yang benar dan tertarget? Tipsnya, Anda perlu menentukan batasan waktunya.
+
+    Hal ini dapat menciptakan urgensi bagi Anda untuk mengumpulkan sejumlah uang pada waktu yang telah ditentukan.
+
+    Dengan demikian, Anda akan terdorong untuk selalu menyisihkan uang dan berusaha meraih target tabungan sebelum mencapai batas waktu.
+    </string>
+
+    <string name="Article2">
+    1. Selalu siapkan anggaran keuangan
+    Dalam memulai menemukan cara mengelola keuangan yang mudah Anda aplikasikan, Anda bisa mulai dari menyiapkan anggaran keuangan. Anggaran ini dibutuhkan sebagai sebuah acuan dalam segala perhitungan finansial Anda. Mulai dari pemasukan, pengeluaran, serta kebutuhan untuk berinvestasi dan akses terhadap layanan kesehatan. Dengan memerhatikan anggaran keuangan sebagai salah satu cara mengelola keuangan, Anda bisa menentukan aspek apa saja yang diperlukan dan dibutuhkan. Penentuan tersebut berguna agar Anda tidak mengeluarkan uang untuk hal-hal yang tidak diperlukan atau tidak dibutuhkan, sekaligus membuat Anda lebih disiplin lagi dalam menentukan prioritas demi mengelola kondisi finansial agar selalu balance atau bahkan mendapatkan keuntungan. Anggaran ini juga berguna untuk menentukan berapa biaya yang perlu Anda keluarkan per bulannya.
+
+    2. Belajar untuk menabung
+    Mungkin Anda sudah bosan mendengar kata menabung. Namun, menabung hingga saat ini merupakan salah satu cara mengelola keuangan yang baik dan terbukti ampuh. Apalagi jika Anda saat ini sedang mempersiapkan kehidupan di masa depan yang lebih baik. Dengan menabung, Anda secara tidak langsung menyisihkan uang yang Anda miliki untuk kebutuhan di masa depan yang sifatnya terencana maupun tidak terencana. Sehingga Anda tidak perlu merasa kesulitan untuk memenuhi kebutuhan di masa depan nanti. Namun perlu Anda pahami, cara mengelola keuangan dengan menabung ini dibutuhkan kedisiplinan yang tinggi. Pasalnya, Anda harus rela untuk menyisihkan penghasilan Anda dengan nominal yang Anda tentukan sendiri untuk tidak bisa digunakan dalam waktu yang dekat. Demi memperlancar cara mengelola keuangan dengan menabung, Anda juga bisa mengubah gaya hidup Anda secara perlahan. Anda bisa mulai menghindari atau mengurangi pengeluaran berlebihan dan mengalokasikan dana tersebut ke dalam tabungan Anda.
+
+    3. Hindari berutang
+    Utang merupakan salah satu kendala dalam menentukan cara mengelola keuangan yang baik. Pasalnya dengan berutang, Anda jadi harus menyisihkan penghasilan Anda untuk mengalokasikannya dalam membayar tagihannya setiap bulannya. Demi menemukan cara mengelola keuangan yang sesuai, ada baiknya Anda perlu menyelesaikan segala bentuk utang yang Anda miliki. Menyelesaikan utang ini bisa jadi langkah awal dalam pengelolaan keuangan Anda yang kuat di masa depan. Anda bisa mengalokasikan dana yang sebelumnya dikeluarkan untuk membayar tagihan untuk hal yang bermanfaat lainnya, seperti investasi atau menabung. Dengan mengalokasikan dana untuk kebutuhan di masa depan serta menghindari kondisi di dalam utang, Anda akan bisa mempersingkat waktu menemukan cara mengelola keuangan yang baik dan sesuai dengan kepribadian Anda.
+
+    4. Buat catatan keuangan
+    Selain memiliki anggaran, Anda juga membutuhkan adanya catatan keuangan dalam menentukan cara mengelola keuangan yang baik. Catatan keuangan ini berguna untuk memberi rincian terhadap pengeluaran Anda dalam sehari-hari atau per bulannya. Dengan mengetahui secara rinci terkait pengeluaran yang dilakukan, maka Anda akan lebih mudah mengeliminasi pengeluaran yang tidak diperlukan untuk kemudian hari. Hal tersebut bisa mulai Anda alokasikan ke hal-hal yang lebih menguntungkan seperti menabung atau mulai berinvestasi. Kedua hal tersebut akan membantu Anda dalam merealisasikan masa depan yang lebih baik secara lebih cepat dan mudah sekaligus juga jadi hal yang baik dalam cara mengelola keuangan dalam jangka waktu panjang.
+
+    5. Atur anggaran sesuai prioritas kebutuhan
+    Anda tentu paham bahwa menghadirkan anggaran sebagai salah satu cara mengelola keuangan akan memudahkan Anda dalam memisahkan kebutuhan dan keinginan. Namun yang perlu Anda tambahkan adalah mengenai prioritas kebutuhan tersebut dalam jangkauan waktu. Anda bisa membagi prioritas kebutuhan dalam anggaran Anda sesuai dengan waktu yang dibutuhkan. Mulai dari kebutuhan sehari-hari, sifatnya yang perbulan, hingga di masa yang lebih panjang lagi, seperti menyiapkan keperluan dana demi membeli tempat tinggal atau memulai usaha secara mandiri. Dengan mempersiapkan anggaran jangka panjang dalam cara mengelola keuangan, Anda pun akan memiliki kesempatan yang lebih besar dalam memiliki rasa aman serta independen dalam aspek finansial di masa depan.
+
+    6. Miliki bayangan kehidupan di masa depan
+    Selain melakukan kegiatan dalam melatih Anda menentukan cara mengelola keuangan yang baik, ternyata membayangkan atau memiliki impian yang jelas juga bisa membantu Anda memotivasi untuk memiliki kondisi keuangan yang sehat. Dengan membayangkan kehidupan apa yang Anda inginkan di masa depan, Anda dapat membuat rencana yang lebih baik lagi. Terutama untuk perjalanan karier Anda. Cara mengelola keuangan yang satu ini berasal dari keinginan Anda tentang kehidupan ideal yang ingin direalisasikan. Maka kekuatan dari impian ini bisa cukup besar dalam memengaruhi kebiasaan Anda dalam mengelola finansial secara lebih baik.
+
+    7. Mulai berinvestasi
+    Investasi juga punya peran yang cukup penting dalam menghadirkan kondisi finansial yang kuat. Cara mengelola keuangan dengan mengalokasikan dana ke dalam sebuah instrumen investasi tidak hanya dapat menjaga kondisi keuangan Anda dengan baik. Investasi juga bisa membawa keuntungan sehingga kondisi finansial Anda bertambah kuat seiring waktu. Dengan kondisi keuangan yang kuat maka, Anda akan lebih mudah merealisasikan kehidupan ideal di masa depan tanpa rasa khawatir.
+    </string>
+
+    <string name="info">
+        Budget Budddiez adalah aplikasi pencatatan keuangan. Di sini, pengguna dapat melihat pemasukan, pengeluaran, dan saldo
+    </string>
+
+
+</resources>

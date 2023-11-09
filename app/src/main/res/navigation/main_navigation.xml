@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/fCalculator">
+
+    <fragment
+        android:id="@+id/fCalculator"
+        android:name="com.example.uts.fragments.fGraph"
+        android:label="fragment_f_calculator"
+        tools:layout="@layout/fragment_f_graph" />
+    <fragment
+        android:id="@+id/fMoneyConversion"
+        android:name="com.example.uts.fragments.fMyProfile"
+        android:label="fragment_f_money_conversion"
+        tools:layout="@layout/fragment_f_my_profile" />
+    <fragment
+        android:id="@+id/fHome"
+        android:name="com.example.uts.fragments.fHome"
+        android:label="fragment_f_home"
+        tools:layout="@layout/fragment_f_home" />
+</navigation>

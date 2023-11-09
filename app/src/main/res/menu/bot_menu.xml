@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bot_menu_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"/>
+    <item android:id="@+id/bot_menu_graph"
+        android:icon="@drawable/baseline_pie_chart_24"
+        android:title="Graphic"/>
+    <item android:id="@+id/bot_menu_articles"
+        android:icon="@drawable/baseline_newspaper_24"
+        android:title="Articles"/>
+    <item android:id="@+id/bot_menu_profile"
+        android:icon="@drawable/baseline_person_24"
+        android:title="My Profile"/>
+</menu>
